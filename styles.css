@@ -1,0 +1,46 @@
+header img{
+    width: 150px;
+}
+
+header h1 {
+    color: red;
+}
+
+header .second-homework{
+    background: blue;
+    color: white;
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+header p span{
+    color: red;
+}
+
+main h2{
+    background: green;
+    color: white;
+}
+
+main .whats-next h2{
+ padding: 7px 7px 7px 7px;
+}
+
+main .my-abilities h2{
+padding: 50px 50px 50px 50px ;
+}
+
+main .my-abilities .forms{
+    padding-left: 100px;
+}
+
+main .my-abilities ul li{
+    border: black 0.5px solid;
+    font-size: 25px;
+}
+
+footer h2{
+    background: green;
+    color: white;
+    padding: 7px 7px 7px 7px;
+}
